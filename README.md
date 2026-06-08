@@ -39,7 +39,7 @@ Reading 10,000 reviews by hand would take a full work-week. Hiring a team is not
 
 | Phase | Time | Format |
 |---|---|---|
-| Concept walkthrough | ~90 min | Instructor presents core concepts; learners follow along using the interactive key-concepts page in [`interactive/`](./interactive/) |
+| Concept walkthrough | ~90 min | Instructor presents core concepts; learners follow along on the [**interactive key-concepts page**](https://flexfengfeng.github.io/dsai-m3-l01-learner/) |
 | Hands-on code-alongs | ~90 min | Three notebooks (~25–30 min each) — Core sections only |
 | (Self-study after class) | self-paced | Each notebook has a 🟡 Extension section for going deeper |
 
@@ -70,7 +70,7 @@ You will:
 
 **Short reference & review →** [**lesson.md**](./lesson.md) (overview, key takeaways, ML-fit checklist, 10-question review, L02–L10 course map)
 
-**Interactive walkthroughs →** open [`interactive/key-concepts.html`](./interactive/key-concepts.html) for an in-browser tour of the core ideas, and [`interactive/mcqs.html`](./interactive/mcqs.html) for a 10-question self-check quiz.
+**Interactive walkthroughs →** the [**key concepts page**](https://flexfengfeng.github.io/dsai-m3-l01-learner/) (hosted on GitHub Pages) gives an in-browser tour of the core ideas. Open [`interactive/mcqs.html`](./interactive/mcqs.html) locally for a 10-question self-check quiz.
 
 **Notebooks — run in order:**
 
@@ -121,10 +121,10 @@ pre-class.md                 ← Before-class self-study guide (75 min)
 lesson.md                    ← Short reference: overview, takeaways, ML-fit checklist, review Q&A, course map
 reference.md                 ← Further reading and glossary
 environment.yml              ← Python environment for all 10 lessons
+docs/
+  index.html                 ← Interactive key-concepts walkthrough (served at https://flexfengfeng.github.io/dsai-m3-l01-learner/ via GitHub Pages)
 interactive/
-  key-concepts.html          ← Interactive in-browser walkthrough of L01 key concepts
-  key-concepts-ntu.html      ← NTU-branded version of the key-concepts walkthrough
-  mcqs.html                  ← 10-question self-check quiz
+  mcqs.html                  ← 10-question self-check quiz (open locally in a browser)
 notebooks/
   01_monday_morning.ipynb    ← Sarah's pre-class story (~15 min, before class)
   02_what_is_ml.ipynb        ← What is ML? (in class)
