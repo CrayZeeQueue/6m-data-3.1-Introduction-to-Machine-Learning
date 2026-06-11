@@ -70,7 +70,7 @@ You will:
 
 **Short reference & review →** [**lesson.md**](./lesson.md) (overview, key takeaways, ML-fit checklist, 10-question review, L02–L10 course map)
 
-**Interactive walkthroughs →** the [**key concepts page**](https://flexfengfeng.github.io/dsai-m3-l01-learner/) (hosted on GitHub Pages) gives an in-browser tour of the core ideas. Open [`interactive/mcqs.html`](./interactive/mcqs.html) locally for a 10-question self-check quiz.
+**Interactive walkthroughs →** the [**key concepts page**](https://su-ntu-ctp.github.io/6m-data-3.1-Introduction-to-Machine-Learning/) (hosted on GitHub Pages) gives an in-browser tour of the core ideas.
 
 **Notebooks — run in order:**
 
